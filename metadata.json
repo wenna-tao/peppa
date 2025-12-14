@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Gesture Christmas Tree",
+  "description": "A 3D interactive Christmas tree made of particles and photos, controlled by hand gestures using MediaPipe.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
